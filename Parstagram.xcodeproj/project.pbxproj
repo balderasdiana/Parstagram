@@ -17,6 +17,7 @@
 		DAAC8D40237E3747002D75E7 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAAC8D3F237E3747002D75E7 /* CameraViewController.swift */; };
 		DAAC8D42237E37A4002D75E7 /* image_placeholder.png in Resources */ = {isa = PBXBuildFile; fileRef = DAAC8D41237E37A4002D75E7 /* image_placeholder.png */; };
 		DAAC8D44237E466E002D75E7 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAAC8D43237E466E002D75E7 /* PostCell.swift */; };
+		DAB1135F23878468000888FD /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAB1135E23878466000888FD /* CommentCell.swift */; };
 		DAFA5FA6237E24C3009ABE18 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA5FA5237E24C3009ABE18 /* AppDelegate.swift */; };
 		DAFA5FA8237E24C4009ABE18 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA5FA7237E24C4009ABE18 /* SceneDelegate.swift */; };
 		DAFA5FAD237E24C5009ABE18 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAFA5FAB237E24C5009ABE18 /* Main.storyboard */; };
@@ -60,6 +61,7 @@
 		DAAC8D3F237E3747002D75E7 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		DAAC8D41237E37A4002D75E7 /* image_placeholder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image_placeholder.png; sourceTree = "<group>"; };
 		DAAC8D43237E466E002D75E7 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		DAB1135E23878466000888FD /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		DAFA5FA2237E24C3009ABE18 /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAFA5FA5237E24C3009ABE18 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DAFA5FA7237E24C4009ABE18 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -164,6 +166,7 @@
 				DAAC8D37237E2C10002D75E7 /* LoginViewController.swift */,
 				DAAC8D39237E2C23002D75E7 /* FeedViewController.swift */,
 				DAAC8D43237E466E002D75E7 /* PostCell.swift */,
+				DAB1135E23878466000888FD /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -434,6 +437,7 @@
 				DAAC8D3A237E2C23002D75E7 /* FeedViewController.swift in Sources */,
 				DAFA5FA8237E24C4009ABE18 /* SceneDelegate.swift in Sources */,
 				DAAC8D44237E466E002D75E7 /* PostCell.swift in Sources */,
+				DAB1135F23878468000888FD /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
