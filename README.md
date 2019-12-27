@@ -2,7 +2,7 @@
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 ---
 
@@ -26,6 +26,8 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/HOOE4uLsje.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 # Parstagram - Part II
 
@@ -54,6 +56,8 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/oFid7Lv82B.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
